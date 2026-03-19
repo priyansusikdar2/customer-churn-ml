@@ -117,7 +117,7 @@ Helps businesses:
 
 ## 👨‍💻 **Author**
 
-**Priyanu Sikdar**
+**Priyansu Sikdar**
 
 ---
 
